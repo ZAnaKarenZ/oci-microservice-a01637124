@@ -10,4 +10,4 @@ ENV TNS_ADMIN=/oci-microservice-a01637124/Wallet_javadev103
 
 EXPOSE 8080
 
-ENTRYPOINT [ "java", "-jar", "oci-microservice-<your student id>.jar" ]
+ENTRYPOINT [ "java", "-jar", "oci-microservice-a01637124.jar" ]
